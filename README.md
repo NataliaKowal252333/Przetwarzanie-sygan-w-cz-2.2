@@ -1,6 +1,3 @@
-
-## Title
-
 > [!NOTE]
 > Joint analysis of slow waves and pulse waveform of intracranial pressure
 
